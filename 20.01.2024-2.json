@@ -1,0 +1,25 @@
+{
+    "name": "Charles Davis DVM",
+    "age": 22,
+    "address": {
+        "street": "Jill Ports",
+        "city": "Harringtonland",
+        "state": "Montana",
+        "zip": "45945"
+    },
+    "contact": {
+        "phone": "001-699-634-8179x1388",
+        "servicePhone": "800556161"
+    },
+    "birthday": "2003-25-12",
+    "ip": "14.155.168.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole nearly place actually use party else. Effect participant large if have student claim. Themselves strong far.\nThere listen person central upon. Worker control minute land recently me.",
+        "bio": "Authority top rest affect base police strong. Station campaign arrive administration.\nIdea see table draw lose avoid wind better."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
