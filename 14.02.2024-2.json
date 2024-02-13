@@ -1,0 +1,25 @@
+{
+    "name": "Austin King",
+    "age": 4,
+    "address": {
+        "street": "Hannah Avenue",
+        "city": "West Brandon",
+        "state": "Maine",
+        "zip": "73233"
+    },
+    "contact": {
+        "phone": "615-455-7861x9563",
+        "servicePhone": "800694821"
+    },
+    "birthday": "2021-12-03",
+    "ip": "94.53.55.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce inside body off mean. Above change land name.\nTeam begin blue. School anything message government simply may conference.",
+        "bio": "Treatment blue action machine else. Carry social left push. Ten suffer consumer soldier stock sell. Service politics research kid official in never third."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
