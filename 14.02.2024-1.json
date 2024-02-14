@@ -1,0 +1,25 @@
+{
+    "name": "Kerry Munoz",
+    "age": 12,
+    "address": {
+        "street": "Sullivan Crossing",
+        "city": "Port Randyview",
+        "state": "Wyoming",
+        "zip": "41988"
+    },
+    "contact": {
+        "phone": "9484595431",
+        "servicePhone": "800961707"
+    },
+    "birthday": "2013-29-07",
+    "ip": "200.52.192.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Education tonight part sister describe current. Design decision girl wife same. Off situation prove same.",
+        "bio": "Other her important defense. Describe build even economy. Economic spring half opportunity compare."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
