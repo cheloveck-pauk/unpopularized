@@ -1,0 +1,25 @@
+{
+    "name": "Reginald Mendez",
+    "age": 52,
+    "address": {
+        "street": "Lindsey Branch",
+        "city": "Coopershire",
+        "state": "Iowa",
+        "zip": "19539"
+    },
+    "contact": {
+        "phone": "(537)212-6175x963",
+        "servicePhone": "800709240"
+    },
+    "birthday": "1973-21-04",
+    "ip": "108.224.223.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Face office in example effort believe head.\nInclude tree book system window. White product activity yard. Daughter join process wife cup decision body.",
+        "bio": "Century movement real third threat. Mrs fear kind hear between.\nWrite media choice machine figure. Attorney visit toward style whether president. Tough performance television cost quickly its."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
