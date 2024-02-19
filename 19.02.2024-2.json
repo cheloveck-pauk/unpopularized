@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Glass",
+    "age": 62,
+    "address": {
+        "street": "Owens Plains",
+        "city": "New Marthaborough",
+        "state": "Nebraska",
+        "zip": "32520"
+    },
+    "contact": {
+        "phone": "554-677-5043x56960",
+        "servicePhone": "800276818"
+    },
+    "birthday": "1963-14-10",
+    "ip": "210.244.111.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Develop science early.\nTechnology industry budget call yard. Fish spend list.\nCandidate simple lead case catch fast child. Able mission why western part produce peace shake.",
+        "bio": "Town Republican everyone push task perform. Top mother bad identify. Listen be defense anything resource most focus prepare."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
