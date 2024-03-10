@@ -1,0 +1,25 @@
+{
+    "name": "Madison Barajas",
+    "age": 50,
+    "address": {
+        "street": "Sandra Crescent",
+        "city": "Obrienfort",
+        "state": "Alabama",
+        "zip": "31177"
+    },
+    "contact": {
+        "phone": "(456)989-2411",
+        "servicePhone": "800033913"
+    },
+    "birthday": "1975-26-06",
+    "ip": "53.151.245.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Or home project sound cut not reflect. Financial check book support skill try.\nLevel prove rate bring four. Could young important know. Production indicate fall per early.",
+        "bio": "Develop event story throughout very. Hit agree which enter end daughter him arrive."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
