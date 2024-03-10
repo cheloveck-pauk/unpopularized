@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Chase",
+    "age": 27,
+    "address": {
+        "street": "Thomas Mews",
+        "city": "North Laurenview",
+        "state": "Alabama",
+        "zip": "99037"
+    },
+    "contact": {
+        "phone": "001-387-801-7527x2898",
+        "servicePhone": "800243689"
+    },
+    "birthday": "1998-06-03",
+    "ip": "138.107.104.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Easy indicate imagine perform sit condition. Dream crime side now language change tough.\nPlant more whom. Care something heavy attention another out. Support evening peace way away.",
+        "bio": "Purpose turn eye like chair. College yourself Mrs recently coach. Safe almost from.\nEver painting daughter imagine cup seek. Relate drop short could information argue."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
