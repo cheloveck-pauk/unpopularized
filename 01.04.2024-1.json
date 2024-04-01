@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Key",
+    "age": 38,
+    "address": {
+        "street": "Hall Summit",
+        "city": "Port Amandaport",
+        "state": "Minnesota",
+        "zip": "65663"
+    },
+    "contact": {
+        "phone": "965.569.8667",
+        "servicePhone": "800374191"
+    },
+    "birthday": "1987-29-11",
+    "ip": "126.155.16.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Civil per more every. That weight many catch attorney board strong. We sea have entire employee.",
+        "bio": "Owner PM analysis set. Sign forward bed measure rule. Stop husband she upon. General Mrs would fast main.\nSister follow entire bring everyone hour. Each catch minute into."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
