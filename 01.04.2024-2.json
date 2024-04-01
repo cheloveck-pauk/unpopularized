@@ -1,0 +1,25 @@
+{
+    "name": "Susan Patton",
+    "age": 85,
+    "address": {
+        "street": "Estes Flats",
+        "city": "East Monicaland",
+        "state": "Tennessee",
+        "zip": "75166"
+    },
+    "contact": {
+        "phone": "(635)359-5798x443",
+        "servicePhone": "800727927"
+    },
+    "birthday": "1940-14-07",
+    "ip": "208.111.62.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture impact center. Two who kind history. Free particular senior behind agent sure.",
+        "bio": "Room nothing himself Congress. Fill movie there treat nature agreement.\nIncluding enjoy whole nation.\nGarden fund probably bad. Whose upon law."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
