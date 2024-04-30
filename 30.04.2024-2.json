@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Warner",
+    "age": 83,
+    "address": {
+        "street": "Isaac Neck",
+        "city": "Lake Jenniferfort",
+        "state": "Vermont",
+        "zip": "15240"
+    },
+    "contact": {
+        "phone": "209.884.8098x656",
+        "servicePhone": "800679594"
+    },
+    "birthday": "1942-02-06",
+    "ip": "204.234.242.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Financial stay contain. Enough low rise nice agency prepare.\nOffer artist product lot on record buy.",
+        "bio": "Machine government pick seven measure. Challenge single economic list day continue change raise. Phone enter player above rock issue."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
