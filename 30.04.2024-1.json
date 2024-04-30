@@ -1,0 +1,25 @@
+{
+    "name": "Laura Gonzalez",
+    "age": 6,
+    "address": {
+        "street": "Oneill Stream",
+        "city": "North Elaine",
+        "state": "Utah",
+        "zip": "04799"
+    },
+    "contact": {
+        "phone": "657.532.2140",
+        "servicePhone": "800752720"
+    },
+    "birthday": "2019-19-09",
+    "ip": "204.72.67.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Yes measure customer activity energy. Never service door dinner large.\nNeed region which modern fast. Stand score last government store week hear. Great former similar surface force idea friend.",
+        "bio": "Gas organization responsibility perhaps bag want class. Production somebody change.\nThrow once woman fall list what. Subject reality my agreement.\nWhile I get."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
