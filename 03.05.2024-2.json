@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Haas",
+    "age": 100,
+    "address": {
+        "street": "Jessica Underpass",
+        "city": "East Sandrafort",
+        "state": "Mississippi",
+        "zip": "49582"
+    },
+    "contact": {
+        "phone": "327-734-1806x007",
+        "servicePhone": "800375164"
+    },
+    "birthday": "1925-21-03",
+    "ip": "36.57.58.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Join ability close whom. Dinner live often.\nChallenge note meet debate nearly. Especially positive appear family just. Though her guy tell.",
+        "bio": "South throw throw capital certain.\nElection threat general high serve above open. Already keep rest type anyone material.\nSo our conference alone. Lawyer nearly sit above. Method world age."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
