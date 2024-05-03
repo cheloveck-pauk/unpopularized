@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Davis",
+    "age": 76,
+    "address": {
+        "street": "Franco Harbors",
+        "city": "New Michelleborough",
+        "state": "Nevada",
+        "zip": "49066"
+    },
+    "contact": {
+        "phone": "842.649.9569x56335",
+        "servicePhone": "800917696"
+    },
+    "birthday": "1949-26-08",
+    "ip": "193.21.110.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Computer it leg station green southern station. Parent between bank modern treat everybody.",
+        "bio": "Area become around finish tell. Garden price machine plant consider president surface. Mouth issue mention establish.\nSpring thousand industry buy day for describe."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
