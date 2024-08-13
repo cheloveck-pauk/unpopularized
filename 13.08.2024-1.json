@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Evans",
+    "age": 50,
+    "address": {
+        "street": "Jillian Hollow",
+        "city": "Stephaniemouth",
+        "state": "Oklahoma",
+        "zip": "40378"
+    },
+    "contact": {
+        "phone": "(555)386-3127x350",
+        "servicePhone": "800914839"
+    },
+    "birthday": "1975-22-08",
+    "ip": "109.45.76.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold reflect ask. Land reflect special direction rich move low adult.",
+        "bio": "Fight type reach dream. Pay no attorney family stage call.\nAssume road issue pay test get leader. May face charge occur. Town we together happy."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
