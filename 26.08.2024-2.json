@@ -1,0 +1,25 @@
+{
+    "name": "Brian White",
+    "age": 87,
+    "address": {
+        "street": "Shannon Wall",
+        "city": "Brandyfurt",
+        "state": "Hawaii",
+        "zip": "31324"
+    },
+    "contact": {
+        "phone": "001-464-900-9657x3413",
+        "servicePhone": "800438240"
+    },
+    "birthday": "1938-08-07",
+    "ip": "81.228.45.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover choice watch contain trade us relate. Pick our field. Commercial Congress line art recently.\nBehind at region page party collection. Determine their never.",
+        "bio": "Edge free pick necessary. Smile want down agent something up. Be surface father."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
