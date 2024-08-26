@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Jensen",
+    "age": 66,
+    "address": {
+        "street": "Hull Plains",
+        "city": "Port Pamela",
+        "state": "Illinois",
+        "zip": "40024"
+    },
+    "contact": {
+        "phone": "001-305-745-1762x44144",
+        "servicePhone": "800411032"
+    },
+    "birthday": "1959-28-11",
+    "ip": "30.203.86.10",
+    "foo": "bar",
+    "profile": {
+        "about": "People paper charge call. Always or forget mean leave call.\nWorld decade sound sometimes. Approach show night treat. Edge break evidence cut it table ready case.",
+        "bio": "Business big decision Mr adult. Bring over allow billion.\nPhysical serve expect list especially charge notice. Mother foreign voice stop."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
