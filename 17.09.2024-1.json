@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Heath",
+    "age": 107,
+    "address": {
+        "street": "Veronica Valleys",
+        "city": "West Thomas",
+        "state": "Arizona",
+        "zip": "24636"
+    },
+    "contact": {
+        "phone": "(376)915-7140",
+        "servicePhone": "800166007"
+    },
+    "birthday": "1918-10-09",
+    "ip": "110.82.61.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Difference product alone card everybody. Week evening challenge group last they.\nMouth various trouble. North pressure oil hot rest see. Still return worry summer benefit.",
+        "bio": "Own similar perhaps tend radio election factor mother.\nTell leader travel pick pressure explain agree. Part usually form ask account begin clear attack."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
