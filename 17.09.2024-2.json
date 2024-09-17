@@ -1,0 +1,25 @@
+{
+    "name": "Scott James",
+    "age": 103,
+    "address": {
+        "street": "Tyler View",
+        "city": "East Kelly",
+        "state": "Tennessee",
+        "zip": "38843"
+    },
+    "contact": {
+        "phone": "978-704-8056x285",
+        "servicePhone": "800049460"
+    },
+    "birthday": "1922-08-08",
+    "ip": "178.157.66.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Road good discuss wife police choose behind. Church might upon under.\nPoint nor score conference. Family not line add. All region necessary director performance fire last PM.",
+        "bio": "Like democratic church factor structure. Value easy painting eye end. Evidence where since wear couple.\nSet spend culture suggest our describe stock. Already accept maintain hot what."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
