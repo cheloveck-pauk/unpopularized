@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Cowan",
+    "age": 74,
+    "address": {
+        "street": "Williams Drives",
+        "city": "Christopherchester",
+        "state": "Louisiana",
+        "zip": "25940"
+    },
+    "contact": {
+        "phone": "434.613.5725x4141",
+        "servicePhone": "800802143"
+    },
+    "birthday": "1951-24-06",
+    "ip": "35.206.158.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Travel difficult hair itself miss benefit door. Trip seek whom mouth I month. Investment build international country town. They Mrs half bank feeling family happy.",
+        "bio": "Million media about carry interest business. Campaign garden produce method picture very happy.\nClass half treatment general. Determine away when out whole."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
