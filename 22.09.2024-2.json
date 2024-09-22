@@ -1,0 +1,25 @@
+{
+    "name": "Carlos English",
+    "age": 67,
+    "address": {
+        "street": "Austin Roads",
+        "city": "North Thomas",
+        "state": "Delaware",
+        "zip": "13297"
+    },
+    "contact": {
+        "phone": "+1-870-480-9150x5943",
+        "servicePhone": "800322668"
+    },
+    "birthday": "1958-18-02",
+    "ip": "80.26.128.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Mention nearly leg college sometimes. Security course the sound personal way.",
+        "bio": "Adult lot water. Whether team north south land. Nor fight prevent maintain.\nDog lead west. Make include leader audience present vote road. Address form suffer usually throw discuss his."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
